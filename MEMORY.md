@@ -66,3 +66,4 @@ RIKER, GEORDI, BEVERLY, BARCLAY, TASHA, MR_WORF — mid-power always-on workhors
 - **Never mention an agent as "active" without verifying** against MACHINE-DEPLOYMENT.md
 - Multiple passes before presenting — don't trust a single source, cross-reference
 - Old files in workspace or backups can contradict the current plan — always use the branch as source of truth
+_Last updated: 2026-04-25

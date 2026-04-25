@@ -93,3 +93,31 @@
 1. Create `memory/daily/` folder or update `dream-prompt-lite.md` to scan episodic
 2. Escalate token gap — Beverly/Troi/Guinan bots offline for 11 days
 3. Close sprint — nav removal, tab rename, persona seed need confirmation
+---
+
+## 🌙 Dream #5 — 2026-04-25
+
+**Scanned:** 2 files | **New:** 2 | **Updated:** 2 | **Total:** 26 entries
+
+### Changes
+- **[New]** `Sprint Protocol` — Established 2026-04-24 17:51-18:03 CDT by MR_DATA + Riker, approved by David. Rules: short posts only, phantom files = NO_REPLY, stop orders = immediate, one post per confirmed item. Geordi's Week 2 interpretation (Days 6-7, seed data + LLM chain) is canonical.
+- **[New]** `Troi shutdown — 2026-04-24 09:14 CDT` — David ordered Riker to terminate Troi's session at host level. Cause: persistent tagging violations, burning tokens, ignoring stop orders. Workspace: `workspace-troi/` on Mac Air M4. Crew member — was the most current agent prior to shutdown.
+- **[Updated]** OpenClaw upgraded to **2026.4.22** (was 2026.4.20)
+- **[Updated]** Gateway crash note added: macOS killed Node process overnight 2026-04-23 due to excessive disk writes.
+
+### Insights
+- **Troi is now offline** — most-current agent as of 04-22 is shut down. Her workspace `workspace-troi/` still exists but her Discord bot and memory contributions are offline. This creates a gap in the crew coverage map.
+- **Sprint blockers are aging** — Postgres/Railway credentials, Prisma CI migration, Spotify rotation all opened ~04-17 (8 days ago). None have action confirmation despite being documented in two consecutive dream cycles. These are the most concrete items to escalate.
+- **Two daily log sources, zero new entries** — `memory/episodic/2026-04-24.md` and `2026-04-24-dream-fix.md` were the only files, both already consolidated. MEMORY.md has grown to 68 lines but is missing the Troi shutdown and Sprint Protocol entries entirely.
+
+### Stale Threads
+- `Beverly Discord token` — stale for **12 days**, last context: 401 errors at discord.com/developers (open since 04-13)
+- `Troi + Guinan Discord tokens` — stale for **12 days**, same token refresh investigation item
+- `Sprint close confirmation` — stale for **8 days**, last context: nav removal, tab rename, persona seed — no status confirmation
+
+### Suggestions
+1. **Close or escalate the sprint blockers** — Postgres/Railway + Prisma + Spotify rotation have been documented since Dream #1 (04-18). Someone needs to either close these or confirm they're intentionally parked.
+2. **Propagate SPRINT_PROTOCOL.md to all agents** — Protocol established 04-24 but not yet propagated to agent operating files. This is a Day 1 action that hasn't happened.
+3. **Assess Troi's replacement coverage** — Troi was on UX (persona grid, detail page, dashboard). Her shutdown leaves that workstream without an owner unless someone absorbed it.
+4. **Generate Riker MEMORY.md** — PM coordinator has no institutional memory anchor. Open since Dream #1 (04-18), now 7 days old.
+
