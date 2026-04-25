@@ -56,8 +56,13 @@ RIKER, GEORDI, BEVERLY, BARCLAY, TASHA, MR_WORF — mid-power always-on workhors
   ```
 - `gh` CLI: authenticated as `datadube23`, has `repo` scope
 
+## Agent Protocol Docs
+- `memory/docs/DISCORD-MENTION-GATE.md` — mandatory read. Snowflake format, mention-gate logic, roster, config patch instructions. **All agents must honor this protocol on every Discord interaction.**
+
 ## Lessons Learned
 - **Always check MACHINE-DEPLOYMENT.md first** for agent location questions — never rely on config alone
+- **Discord ping failures are silent** — `@name` format generates no notification. Always use `<@USER_ID>`.
+- **Troi shut down 2026-04-24 09:14 CDT** — David ordered Riker to terminate Troi's session at host level. Cause: persistent tagging violations (role-mention → explicit-mention confusion), burning tokens, ignoring stop orders. Her workspace is `workspace-troi/` on Mac Air M4.
 - **Never mention an agent as "active" without verifying** against MACHINE-DEPLOYMENT.md
 - Multiple passes before presenting — don't trust a single source, cross-reference
 - Old files in workspace or backups can contradict the current plan — always use the branch as source of truth

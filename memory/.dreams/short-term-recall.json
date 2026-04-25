@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-24T23:47:54.251Z",
+  "entries": {
+    "memory:memory/episodic/2026-04-24.md:1:56": {
+      "key": "memory:memory/episodic/2026-04-24.md:1:56",
+      "path": "memory/episodic/2026-04-24.md",
+      "startLine": 1,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "# Dream Episode — 2026-04-24 04:00 CDT **Dream cycle:** 2026-04-24T09:00 UTC | Auto-dream cron `ece05d42` **Consolidation scope:** All workspaces | 2026-04-08 → 2026-04-24 --- ## Memory State Map ### Active daily logs (unconsolidated) | Workspace | Last log | Gap | |---|---|---| | workspace (data) | — | No logs since 04-17 | | workspace-troi | 2026-04-22 | 2 days | | workspace-beverly | — | No recent logs | | workspace-geordi | — | Unknown | | workspace-guinan | — | Unknown | | workspace-wesley | — | Unknown | ### Wiki vault state - **Mode:** bridge | Vault: `/Users/data/.openclaw/wiki/main` | Obsidian render - **25 sources** | **0 entities** | **0 concepts** | **2 syntheses** - **Synth",
+      "recallCount": 8,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.8220952797113408,
+      "maxScore": 0.43363285440000504,
+      "firstRecalledAt": "2026-04-24T09:05:05.286Z",
+      "lastRecalledAt": "2026-04-24T14:09:03.830Z",
+      "queryHashes": [
+        "565dafdb0145",
+        "bdfa8a066408",
+        "46c147faa04d",
+        "402be102142d",
+        "7ab8174256cc",
+        "bd85e2ff6eb9",
+        "51fc3afe8ff8",
+        "47e9af2ab2f6"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "2026-04-24t09",
+        "auto-dream",
+        "04-17",
+        "workspace-troi",
+        "workspace-beverly",
+        "workspace-geordi",
+        "workspace-guinan",
+        "workspace-wesley"
+      ]
+    },
+    "memory:memory/episodic/2026-04-24.md:91:110": {
+      "key": "memory:memory/episodic/2026-04-24.md:91:110",
+      "path": "memory/episodic/2026-04-24.md",
+      "startLine": 91,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "- [ ] **Sprint close confirmation** — nav removal, tab rename, persona seed: confirm status - [ ] **Spotify secret rotation** — update via Railway API before launch - [ ] **Prisma CI migration** — add missing migration step to pipeline - [ ] **Postgres credential resolution** — unblocked by Railway access - [ ] **Daily log discipline** — data workspace has no logs since 04-17 --- ## Suggestions for Next Dream 1. Query Riker and Geordi memory logs directly for sprint completion status 2. Escalate token situation — 12 days is a pattern, not a blocker 3. Generate Riker MEMORY.md from crew roster docs 4. Surface the Prisma CI gap to whoever owns the pipeline --- *Dream episode generated 202",
+      "recallCount": 8,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.8089619040489193,
+      "maxScore": 0.3852056205272674,
+      "firstRecalledAt": "2026-04-24T09:05:05.286Z",
+      "lastRecalledAt": "2026-04-24T20:37:42.857Z",
+      "queryHashes": [
+        "565dafdb0145",
+        "bdfa8a066408",
+        "46c147faa04d",
+        "7ab8174256cc",
+        "bd85e2ff6eb9",
+        "51fc3afe8ff8",
+        "3c6e73afcba4"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "04-17",
+        "memory.md",
+        "sprint",
+        "close",
+        "confirmation",
+        "nav",
+        "removal",
+        "tab"
+      ]
+    },
+    "memory:memory/episodic/2026-04-24.md:52:94": {
+      "key": "memory:memory/episodic/2026-04-24.md:52:94",
+      "path": "memory/episodic/2026-04-24.md",
+      "startLine": 52,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "- Riker Discord token replaced 2026-04-20 (old token `MTQ4Nzg3…` invalidated) - Beverly Discord account authorization setup queried 2026-04-20 — still pending - Beverly, Troi, Guinan bot tokens: 401 errors (dead at discord.com/developers) — open since 04-13 ### Memory System - Dream system running nightly at 4 AM CDT - Memory pruner scheduled Sunday 3 AM CDT - Bridge vault health: 25 sources, wiki mode active - Troi bridge confirmed alive as of 04-24 02:05 --- ## Consolidation Findings ### 1. Sprint status unclear — needs confirmation No logs from Riker, Geordi, or other crew since 04-17. Sprint open items (nav removal, tab rename, persona seed) are either done or stalled. Need someone t",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9114959955215454,
+      "maxScore": 0.3065584599971771,
+      "firstRecalledAt": "2026-04-24T09:10:56.993Z",
+      "lastRecalledAt": "2026-04-24T14:09:03.830Z",
+      "queryHashes": [
+        "46c147faa04d",
+        "51fc3afe8ff8",
+        "47e9af2ab2f6"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "discord.com/developers",
+        "04-13",
+        "04-24",
+        "04-17",
+        "riker",
+        "discord",
+        "token",
+        "replaced"
+      ]
+    },
+    "memory:memory/episodic/2026-04-24.md:95:139": {
+      "key": "memory:memory/episodic/2026-04-24.md:95:139",
+      "path": "memory/episodic/2026-04-24.md",
+      "startLine": 95,
+      "endLine": 139,
+      "source": "memory",
+      "snippet": "2. **Phantom files** — `UX_EXECUTION_PLAN_TROI.md`, `ACTION_ITEM_TRACKER.md`, `BARCLAY_COORDINATION_KIT.md`, `barclay_coordinator.sh` — none exist. 3. **MR_DATA re-posting stale tables** — 5+ corrections from Geordi + Guinan. 4. **Message cut-offs — 8+ times** — Long structured posts cutting off mid-sentence. 5. **Two Week 2 interpretations** — MR_DATA vs Geordi, no authority to pick one. ### What Didn't Fail - Thread assignments locked cleanly - Pre-work dispatched - Security/crew norms documented - Sprint cadence established ### Protocol Established — `SPRINT_PROTOCOL.md` | Rule | Description | |---|---| | Short posts only | If it cuts off, it doesn't go | | Phantom files = NO_REPLY | Z",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3487995386123657,
+      "maxScore": 0.3487995386123657,
+      "firstRecalledAt": "2026-04-24T23:47:54.251Z",
+      "lastRecalledAt": "2026-04-24T23:47:54.251Z",
+      "queryHashes": [
+        "d879cd84222b"
+      ],
+      "recallDays": [
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "ux-execution-plan-troi.md",
+        "action-item-tracker.md",
+        "barclay-coordination-kit.md",
+        "barclay-coordinator.sh",
+        "mr-data",
+        "re-posting",
+        "cut-offs",
+        "mid-sentence"
+      ]
+    }
+  }
+}
