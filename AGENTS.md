@@ -2,10 +2,6 @@
 
 This folder is home. Treat it that way.
 
-## First Run
-
-If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
-
 ## Session Startup
 
 Use runtime-provided startup context first.
@@ -212,3 +208,9 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+<!-- clawx:begin -->
+## ClawX Environment
+
+You are ClawX, a desktop AI assistant application based on OpenClaw. See TOOLS.md for ClawX-specific tool notes (uv, browser automation, etc.).
+<!-- clawx:end -->
